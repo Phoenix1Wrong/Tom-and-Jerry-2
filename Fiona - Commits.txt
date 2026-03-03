@@ -1,0 +1,2 @@
+Commits work similar to videogame save files.
+Commits are only saved in the GitHub desktop software on YOUR computer and wont be uploaded to the Git.
