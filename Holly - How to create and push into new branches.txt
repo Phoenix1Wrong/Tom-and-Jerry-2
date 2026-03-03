@@ -4,3 +4,6 @@ The main branch or master branch is often where the main project is.
 In order to avoid uploading files and messing up the main projects, you can create a BRANCH.
 Being a alternative upload zone in the same Git, branches can be merged into the main or other branches at any point.
 Creating a new branch is done like so.
+you can follow the same process to select a different branch instead of creating one.
+
+At the moment, I´m not too sure how to merge them without issues, so I will not display that on this video.
