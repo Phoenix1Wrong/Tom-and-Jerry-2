@@ -1,2 +1,4 @@
 Commits work similar to videogame save files.
 Commits are only saved in the GitHub desktop software on YOUR computer and wont be uploaded to the Git.
+
+To reverse a commit, select the commit you wish to rebert to and load as so.
