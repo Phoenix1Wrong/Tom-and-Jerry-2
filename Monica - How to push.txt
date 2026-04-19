@@ -1,3 +1,0 @@
-Pushing is the process to upload files into the git.
-To do so, you have to first commit any changes you want to upload, and press the push button as follows.
-You can also push the same file is changes where made.
